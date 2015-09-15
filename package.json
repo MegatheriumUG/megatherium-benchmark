@@ -1,0 +1,9 @@
+{
+	"name": "megatherium-benchmark",
+	"description": "just another benchmarking tool",
+	"version": "1.0.0",
+	"main": "benchmark.js",
+	"dependencies": {
+		"async": "*"
+	}
+}
